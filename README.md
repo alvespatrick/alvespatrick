@@ -1,5 +1,8 @@
-### Hi there 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Patrick and my nickname is alvespatrick!
 
+I'm doing a master's degree in Computer Science at UNICAMP and I'm studying Explainable Artificial Intelligence. In my research, I study how we can explain machine learning models used to solve the Human Activity Recognition problem.
+I am a researcher at [H.IAAC](https://hiaac.unicamp.br/research-areas/representacao-de-conhecimento/) and our team works on representation learning problems. We try to find a stable, compact and interpretable representation of sensor data in different domains. To this end, we explore various learning techniques for dimensionality reduction to improve the performance of learning techniques and cognitive architectures and make the results more interpretable.
 <!--
 **alvespatrick/alvespatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
