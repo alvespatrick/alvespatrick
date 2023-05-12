@@ -2,11 +2,14 @@
 ## My name is Patrick Alves!
 
 I'm doing a master's degree in Computer Science at UNICAMP and I'm studying Explainable Artificial Intelligence. In my research, I study how we can explain machine learning models used to solve the Human Activity Recognition problem.
+
 I am a researcher at [H.IAAC](https://hiaac.unicamp.br/research-areas/representacao-de-conhecimento/) and our team works on representation learning problems. We try to find a stable, compact and interpretable representation of sensor data in different domains. To this end, we explore various learning techniques for dimensionality reduction to improve the performance of learning techniques and cognitive architectures and make the results more interpretable.
+
+- How to reach me: tricksantos88@gmail.com
 <!--
 **alvespatrick/alvespatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
