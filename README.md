@@ -1,50 +1,85 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Patrick Alves!
+# 👋 Hello! I'm Patrick Alves
 
-I'm doing a master's degree in Computer Science at UNICAMP and I'm studying Explainable Artificial Intelligence. In my research, I study how we can explain machine learning models used to solve the Human Activity Recognition problem.
+🚀 Machine Learning Engineer | MLOps Engineer  
+🌎 Building scalable ML systems for real-world applications  
 
-**Researcher** at [H.IAAC](https://hiaac.unicamp.br/research-areas/representacao-de-conhecimento/) and our team works on representation learning problems. We try to find a stable, compact and interpretable representation of sensor data in different domains. To this end, we explore various learning techniques for dimensionality reduction to improve the performance of learning techniques and cognitive architectures and make the results more interpretable.
+---
 
-- How to reach me: tricksantos88@gmail.com
+## 🧠 About Me
 
-### Languages Programing:  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+I'm a Machine Learning Engineer with a strong background in **MLOps, distributed systems, and production-grade ML pipelines**.
 
-## My Data Science Stack
+I hold a M.Sc. in Computer Science from UNICAMP, where I worked on **Explainable AI and representation learning** for Human Activity Recognition. Today, I focus on **delivering scalable, data-driven solutions in production environments**.
 
-### Data Visualization:
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+💼 Experience includes:
+- Designing and deploying **ML pipelines (batch & real-time)**
+- Building **end-to-end MLOps systems** (MLflow, CI/CD, monitoring)
+- Working with **big data (PySpark, Polars)**
+- Developing **forecasting and optimization models** for business applications
+
+---
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=alvespatrick&show_icons=true&hide_title=true&include_all_commits=true&count_private=true"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvespatrick&layout=compact&langs_count=6&hide=jupyter%20notebook,html,css"/>
+    </td>
+  </tr>
+</table>
 
 
-### Machine Learning:
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+## ⚙️ Tech Stack
 
-### Others:
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🧠 Machine Learning
+- Scikit-learn, Keras, TensorFlow, PyTorch, LangChain, HugginFace
+- Time Series Forecasting
+- Feature Engineering & Model Optimization
+
+### 🔄 MLOps & Production
+- MLflow, Model Deployment, Monitoring
+- CI/CD, Experiment Tracking
+- Docker, Kubernetes
+
+### 📊 Data Engineering
+- PySpark, Pandas, Polars
+- Kafka (streaming)
+- Large-scale data processing
+
+### ☁️ Cloud & Infrastructure
+- Azure (production experience)
+
+---
+
+## 📄 Publications
+
+📄 [A benchmark for domain adaptation and generalization in smartphone-based human activity recognition](https://www.nature.com/articles/s41597-024-03951-4)  
+*Nature Scientific Data*
+
+📄 [Comparing LIME and SHAP Global Explanations for Human Activity Recognition](https://link.springer.com/chapter/10.1007/978-3-031-79035-5_12)  
+*BRACIS Conference*
 
 
-<!--
-**alvespatrick/alvespatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
- Here are some ideas to get you started:
+## 🤝 Let's Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 LinkedIn: https://linkedin.com/in/patrick-alves-0776921a7  
+- 📫 Email: tricksantos88@gmail.com  
+
+---
+
+## ⚡ What I'm Focused On
+
+- Scaling ML systems in production  
+- Improving MLOps workflows  
+- Applying ML to real-world business problems  
+- Exploring LLMs and modern AI systems  
+
+---
+
+⭐ Feel free to explore my repositories and reach out!
