@@ -1,6 +1,7 @@
 # 👋 Hello! I'm Patrick Alves
 
-🚀 Machine Learning Engineer | Data Scientist
+🚀 Machine Learning Engineer | Data Scientist 
+
 🌎 Building scalable ML systems for real-world applications  
 
 ---
